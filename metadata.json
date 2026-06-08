@@ -1,0 +1,6 @@
+{
+  "name": "Commerce Tracker Pro",
+  "description": "Monitor products, track price and stock changes, manage watchlists, and analyze historical price trends with a premium rules-based system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
